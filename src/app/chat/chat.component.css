@@ -26,7 +26,7 @@
   position: relative;
   width: 50%;
   height: 100%;
-  background-color: #F8C471;
+  background-color: #a0d8ef;
 }
 
 section {
@@ -41,7 +41,7 @@ section {
   min-height: 100px;
   margin: 0;
   padding: 10px;
-  border-top: 1px solid #DDDDDD;
+  border-top: 1px solid #dddddd;
   background-color: #fff;
 }
 
@@ -74,7 +74,7 @@ section {
 }
 
 .message-item {
-  background-color: #F8C471;
+  background-color: #a0d8ef;
 }
 
 .icon {
@@ -82,7 +82,7 @@ section {
   width: 50px;
   height: 50px;
   margin: 5px;
-  border-radius: .3rem;
+  border-radius: 0.3rem;
   color: #fff;
   font-size: 30px;
   line-height: 50px;
